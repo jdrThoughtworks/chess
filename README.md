@@ -1,3 +1,7 @@
+# Why this repo
+
+This is a tiny example project to illustrate a few front-end things.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
